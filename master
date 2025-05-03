@@ -1,0 +1,11 @@
+# Title: masonje/cardoslist/hosts
+#
+# This hosts file is list of sites I don't want my kid to access beyond naughty things found
+# with other host lists in pfsenseng
+#
+
+0.0.0.0 redd.it
+0.0.0.0 reddit.com
+0.0.0.0 reddit.map.fastly.net
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
